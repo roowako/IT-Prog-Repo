@@ -1,7 +1,7 @@
 IT-Prog-Repo
 ======================================================================================================================
 
-IT, Programmers / Web Dev is a non-profit organization established to help yound and aspiring Filipino Developers to be more resourceful and efficient. We strongly promote passion and commitment on our daily lives.
+IT, Programmers / Web Dev is a non-profit organization established to help young and aspiring Filipino Developers to be more resourceful and efficient. We strongly promote passion and commitment on our daily lives.
 
 Here's our posting guidelines please be guided accordingly,
 
