@@ -5,73 +5,73 @@ Programmers Hub PH is a non-profit organization established to help young and as
 
 Here's our posting guidelines please be guided accordingly,
 
-1. Off topic posts must be quoted with "OT" / "Off Topic".
-2. Excessive bashing to other members will also be considered as foul.
-3. You're a developer, you can read and we're sure you can follow. No WARNINGS, we'll just ban you if you can't follow.
-4. Yung mga tanong na SUPER BASIC PLEASE. Try to google it. If possible and MUST BE yung code niyo ang ipakita niyo specify kung anung error para mapabilis yung pagtulong sainyo.
-5. Never ever try to ask or be SPOON FED. Yung mga assignments niyo kung idudulog niyo dito please lang mag dalawang isip na kayo. We will never hesitate i ban kayo agad. You can ask guidelines or yung flow but please never ever dare try to ask us or them to do it for you.
-6. Automatic ban will be implemented to post/s such as: Multi level Marketing or Networking , Spam posts , Pa like ng kung anu-ano o download links na hindi related o walang kaugnayan sa paksa ng group.
-7. BAWALA ANG JEJEMON NA POST. Maging PORMAL tayo sa lahat ng aspeto. 
-8. And please be polite always.
+Here's our posting guidelines please be guided accordingly,
 
-Passion is the key in this field. So please mahalin niyo ng husto course niyo and see where your brave heart can take you.
+1. Please post topics accordingly (i.e. please stick to th scope and context of the group's objective
+  1.1. Off topic posts must be quoted with "OT" / "Off Topic" but will be under Administrators' approval
+  1.2. Spamming in general forms and proliferation of networking schemes by any means are prohibited
+  1.3. Job Posts are allowed with exceptions to those that comes in forms of that stated in 1.2.
 
-======================================================================================================================
+2. We encourage constructive and informative comments on every posts. 
+  2.1. Excessive bashing without productive or constructive purpose to other members will also be considered as foul and thererfore can be grounds removal of membership for any offender
+  2.2. Repeat offenders are automatically banned
+  2.3. Administrators reserve all the right to ban members as they deem necessary based on severity of actions committed.
 
-Please paste your codes here :
-http://pastebin.com/
+3. The group expects members to raise challenging and well stated questions. 
+  3.1. Basic questions can be posted but expect critical assessement from each members or even administrators
+  3.2. Well stated questions will get answers faster so everyone is encourage to provide as much detail as they can on their questions/posts
+  3.3. Try using the search engine first.
+  3.4. Questions that involves code samples should use the link mentioned below for code referrence
+  3.5. Questions that involves images as referrence should include clear visual details.
+  3.6. Expect that everyone has other business than answering your question so be diligent enough to provide all information or else expect your post to be ignored.
 
-======================================================================================================================
+4. The group is not made to attend to your assignments, projects, capstone requirement, thesis or any forms similar.
+  4.1. Unless you require professional help (i.e. mutually agreed professional consultation/assistance/service that requires professional fee) please avoid posts that begs for anyone to do your work.
+  4.2. Ask politely (self-explanatory)
+  4.3. For developers/programmers/IT professionals, please do not use the group to prey on clients. Respect begets respect so stay professional and diplomatic
+ 
+5. We encourage practice of good communication skills which is helpful in stating a well-thought posts
+  5.1. Maintain single language form: English/Filipino or Tagalog
+  5.2. Observe spelling as much as possible so everyone can comprehend appropriately
 
-Title Generator : https://www.cs.purdue.edu/.../dec/essay.topic.generator.html
+6.Every member is EXPECTED to read, understand and abide all rules stated in this document
 
-Basic Thesis Title Proposals :
+Passion is the key in this field.
 
-From SourceCodester
-1. Client server based guidance system
-2. On-line courseware
-3. Payroll system
-4. Hotel reservation system
-5. Hotel management system
-6. Online hotel reservation system
-7. Online billing system
-8. Online membership and billing system
-9. Online class scheduling system
-10. Online POS(Point of Sale)
-11. Online inventory system
-12. Online payroll system
-13. Online ordering system
-14. Online bidding system
-15. Voting system
-16. Online voting system
-17. Online shopping cart
-18. Medical records system
-19. Online public access catalog
-20. library system
-21. Record management system
-22. Supply inventory system
-23. E-learning system
-24. Social networking
-25. Hospital system
-26. E-voting system
-27. Online management system
-28. Online Lot Reservation
-29. Online Product Reservation System
-30. Online Grade Inquiry
-31. WEB-BASED TRACKING SYSTEM
-32. Online Grading System
-33. Airline Reservation System
-34. Video Library Management System
-35. Internet Cafe System
-36. Billing System
-37. Electronic Police Clearance System
-38. Salon System
-39. Human Resource Management System
-40. Pharmacy Automation System
-41. Order Billing Inventory System
 
-======================================================================================================================
+For using referrence codes on your posts, please paste your codes here 
+-http://pastebin.com/
+
+Title Generator 
+-https://www.cs.purdue.edu/.../dec/essay.topic.generator.html
+
+
+Basic Thesis/Capstone Project Title Proposal
+1. Client server based guidance system 
+2. On-line courseware 
+3. Online payroll system
+4. Hotel reservation system 
+5. Hotel management system /Online hotel reservation system 
+6. Online billing system/ Online membership and billing system 
+7. Online class scheduling system 
+8. Online inventory system with POS(Point of Sale)
+9. Ecommerce/E-Cart
+10. Online bidding system 
+11. Voting system 
+12. Online voting system 
+13. Medical records system 
+14. Online public access catalog for library
+15. Public Record management system 
+16. E-learning system 
+17. Social networking/Analytics and Marketing scheme
+18. Online Lot Inquiry and Reservation 
+19. Delivery Tracking System 
+20. Airline Schedule and Flight Reservation System 
+21. Video Library Management System 
+22. Service Ticketing /Queueing System 
+23. Human Resource Management System 
+24. Pharmacy Automation System
 
 Thank you!
 
-Admins
+-Admins
